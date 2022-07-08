@@ -1,6 +1,6 @@
 import React, { useState, useEffect} from "react";
 import './App.css';
-//unfinished
+
 //https://api.github.com/users/AthulMckell
 
 function App({ login }) {
